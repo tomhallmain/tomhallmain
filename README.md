@@ -1,4 +1,3 @@
-### Hi, I'm Tom Hall
 **Open-source developer creating tools for practical workflows**  
 *Focus: Data systems, efficiency, and lightweight automation*
 
