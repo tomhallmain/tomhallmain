@@ -1,17 +1,30 @@
-**Open-source developer creating tools for practical workflows**
-*Focus: Data systems, efficiency, and lightweight automation*
+#  Tom Hall
 
-**Approach**
-- Tools designed for simplicity and adaptability
-- Emphasis on documentation and incremental utility
-- Focus on sustainable, modular systems
+Building tools for practical workflows — data, automation, and currently: image classification.
 
-**Collaboration Interests**
-- Open-source health tools (data parsing, privacy-first design)
-- Applications bridging structured data with creative media
-- Developer utilities for file management and terminal workflows
+##  What I'm working on
 
-**Contact**: [tomhall.main@gmail.com](mailto:tomhall.main@gmail.com)
+- **Image coherence detection** – A ResNet-34 model ([`coherence_detection` on Hugging Face](https://huggingface.co/reddesert/coherence_detection)) that classifies generated images as coherent, incoherent, or semi-incoherent for high-volume review scenarios. The current version is small so future updates to this model are planned with a larger dataset.
+- **More models coming** – Next up: another image classification task (different domain). Not limiting myself to vision — just solving immediate needs.
+- **Open-source utilities** – Lightweight configurable automation, data parsing, terminal workflows. Simple, modular, documented.
+
+##  Approach
+
+- Functional tool synthesis
+- Emphasis on working code and clear usage examples
+
+##  Collaboration interests
+
+- Open-source health tools (privacy-first, data parsing)
+- Bridging structured data with creative/media applications
+- Developer utilities for file management & terminal workflows
+- ML evaluation for generation quality (beyond just coherence)
+
+---
+
+## 📫 Contact
+
+[tomhall.main@gmail.com](mailto:tomhall.main@gmail.com)
 
 <!---
 tomhallmain/tomhallmain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
