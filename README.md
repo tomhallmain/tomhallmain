@@ -5,7 +5,7 @@ Building tools for practical workflows — data, automation, and currently: imag
 ##  What I'm working on
 
 - **Image coherence detection** – A ResNet-34 model ([`coherence_detection` on Hugging Face](https://huggingface.co/reddesert/coherence_detection)) that classifies generated images as coherent, incoherent, or semi-incoherent for high-volume review scenarios. The current version is small so future updates to this model are planned with a larger dataset.
-- **More models coming** – Next up: another image classification task (different domain). Not limiting myself to vision — just solving immediate needs.
+- **NSFW detection for synthetic content** – A model ([`nsfw_detection`](https://huggingface.co/reddesert/nsfw_detection)) geared specifically toward large-scale analysis of AI-generated images. Designed for the same high-volume review scenarios as the coherence model.
 - **Open-source utilities** – Lightweight configurable automation, data parsing, terminal workflows. Simple, modular, documented.
 
 ##  Approach
@@ -18,7 +18,7 @@ Building tools for practical workflows — data, automation, and currently: imag
 - Open-source health tools (privacy-first, data parsing)
 - Bridging structured data with creative/media applications
 - Developer utilities for file management & terminal workflows
-- ML evaluation for generation quality (beyond just coherence)
+- **ML evaluation for generation quality** (coherence, safety, and beyond)
 
 ---
 
