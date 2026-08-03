@@ -6,6 +6,7 @@ Building tools for practical workflows — data, automation, and currently: imag
 
 - **Image coherence detection** – A ResNet-34 model ([`coherence_detection`](https://huggingface.co/reddesert/coherence_detection)) that classifies images as coherent, incoherent, or semi-incoherent for high-volume review of generated content. Future updates planned with a larger dataset.
 - **NSFW detection** – A model ([`nsfw_detection`](https://huggingface.co/reddesert/nsfw_detection)) geared specifically toward large-scale analysis of images. Designed for the same high-volume review scenarios as the coherence model.
+- **Finance and Graph Theory** – [Accounting Logic Map](https://github.com/tomhallmain/AccountingLogicMap): rewriting GL history as a debit–credit graph to verify postings, predict counterparts, and surface structural anomalies—practical audit signal without a black-box model.
 - **Open-source utilities** – Lightweight configurable automation, data parsing, terminal workflows. Simple, modular, documented.
 
 ##  Approach
